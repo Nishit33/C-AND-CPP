@@ -1,0 +1,14 @@
+	3. What is the difference between OOP and POP? 
+
+	->The key diffrence between object-oriented programming and procedure oriented programming lie in their 
+	approach to program design , data managment and structure.
+
+	Pop - it focused on the steps involved in solving a problem and follows a top-down approach.
+	data is often trated as seprate from the procedure that operate on it.
+
+
+	oop - models real world entities as object which have both data attributes and behaviour method it focuses
+		on the relationships between object and how they interact with each other.
+		oop promotes code reusability , modularity and maintainbility through concepts like 
+		inheritance , polymorphism and encapsulation.		
+				

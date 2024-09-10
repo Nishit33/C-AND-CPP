@@ -1,0 +1,53 @@
+				
+
+				2. What is OOP? List OOP concepts
+
+
+
+	-> So oop is object oriented programming it's based on objects . An object can be anything
+	   a person , a car , a bank account etc. Each object have attributes and methods.
+
+
+
+	( List of oop concepts )
+	
+	1- Class & Object
+
+	Class - Class is a collection of data member and member of function.
+	
+	Object - Object is instance of class through the object we can acess all properties of class.
+
+
+	2- Inheritance
+
+	Inheritance is a fundamental concept in object-oriented programming 
+	that allows a class to inherit properties and behaviors from another class.
+
+						
+	3- Polymorphism
+	
+	Polymorphism means many forms.
+	1 is Overloding   in overloding has parameter to declar 
+	2 is Overriding  in overriding we can use scope resolution 
+
+
+	4- Encapsulation
+	
+	Encapsulation is the concept of bundling the data and methods that operate on the data
+	into a single unit or class.
+
+
+	5- Abstraction 
+
+	Abstraction is the concept of hiding the complex implementation details and 
+	showing only the essential features of an object.
+
+
+	6- Constructor & Destructors
+
+	Constructor - Constructor is a special method it is called itself when object is created.	
+	Destructors - A destructor is a special member function that is automatically called when an object of that class is destroyed. 
+
+	7- Templates
+	
+	Templates are allow you to write generic and reusable code.
